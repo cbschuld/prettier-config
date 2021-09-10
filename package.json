@@ -1,0 +1,9 @@
+{
+  "name": "@cbschuld/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal prettier config - format influenced by standardjs.com",
+  "main": "index.json",
+  "repository": "git@github.com:cbschuld/prettier-config.git",
+  "author": "Chris Schuld <cbschuld@gmail.com>",
+  "license": "MIT"
+}
